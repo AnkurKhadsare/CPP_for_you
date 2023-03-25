@@ -9,7 +9,7 @@ int main(){
     return 0;
 }
 
-/* A LOR WORK IN VS CODE TO RUN THIS PROJECT
+/* A LOT WORK IN VS CODE TO RUN THIS PROJECT
 # g++ -c main.cpp  // Created an object file main.0
 # g++ -c mymath.cpp // Created an object file mymath.o
 # ar rvs libm.a mymath.o // Creat a linker file libm.a
